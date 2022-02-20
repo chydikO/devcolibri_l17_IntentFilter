@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">devcolibri_l17_Intent Filter</string>
+    <string name="explicit_and_implicit_invocation_of_activity">Explicit and Implicit invocation of Activity</string>
+    <string name="explicit">Explicit</string>
+    <string name="implicit">Implicit</string>
+    <string name="open_contacts">Open Contacts</string>
+</resources>
